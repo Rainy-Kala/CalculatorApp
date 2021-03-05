@@ -1,0 +1,50 @@
+2021-03-05 20:58:29,454 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:29,454 : INFO : calculatorLogs : Input 2: 4
+2021-03-05 20:58:29,455 : INFO : calculatorLogs : Operator selected: +
+2021-03-05 20:58:29,455 : INFO : calculatorLogs : Output: 9
+2021-03-05 20:58:29,455 : INFO : calculatorLogs : Operation Performed: 5+4=9
+2021-03-05 20:58:31,160 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:31,161 : INFO : calculatorLogs : Input 2: 4
+2021-03-05 20:58:31,161 : INFO : calculatorLogs : Operator selected: -
+2021-03-05 20:58:31,161 : INFO : calculatorLogs : Output: 1
+2021-03-05 20:58:31,161 : INFO : calculatorLogs : Operation Performed: 5-4=1
+2021-03-05 20:58:32,527 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:32,673 : INFO : calculatorLogs : Input 2: 4
+2021-03-05 20:58:32,673 : INFO : calculatorLogs : Operator selected: *
+2021-03-05 20:58:32,674 : INFO : calculatorLogs : Output: 20
+2021-03-05 20:58:32,674 : INFO : calculatorLogs : Operation Performed: 5*4=20
+2021-03-05 20:58:34,113 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:34,114 : INFO : calculatorLogs : Input 2: 4
+2021-03-05 20:58:34,114 : INFO : calculatorLogs : Operator selected: /
+2021-03-05 20:58:34,114 : INFO : calculatorLogs : Output: 1.25
+2021-03-05 20:58:34,114 : INFO : calculatorLogs : Operation Performed: 5/4=1.25
+2021-03-05 20:58:37,688 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:37,688 : INFO : calculatorLogs : Input 2: 4
+2021-03-05 20:58:37,688 : INFO : calculatorLogs : Operator selected: sin
+2021-03-05 20:58:37,689 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:37,689 : INFO : calculatorLogs : Input 2: 4
+2021-03-05 20:58:37,689 : INFO : calculatorLogs : Operator selected: +
+2021-03-05 20:58:37,689 : INFO : calculatorLogs : Output: 9
+2021-03-05 20:58:37,689 : INFO : calculatorLogs : Operation Performed: 5+4=9
+2021-03-05 20:58:37,689 : INFO : calculatorLogs : Output: 0.4121184852417566
+2021-03-05 20:58:37,689 : INFO : calculatorLogs : Operation Performed: sin5+4=0.4121184852417566
+2021-03-05 20:58:47,384 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:47,384 : INFO : calculatorLogs : Input 2: 
+2021-03-05 20:58:47,384 : INFO : calculatorLogs : Operator selected: sin
+2021-03-05 20:58:47,384 : INFO : calculatorLogs : Output: -0.9589242746631385
+2021-03-05 20:58:47,385 : INFO : calculatorLogs : Operation Performed: sin5=-0.9589242746631385
+2021-03-05 20:58:49,754 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:49,754 : INFO : calculatorLogs : Input 2: 
+2021-03-05 20:58:49,754 : INFO : calculatorLogs : Operator selected: cos
+2021-03-05 20:58:49,754 : INFO : calculatorLogs : Output: 0.28366218546322625
+2021-03-05 20:58:49,754 : INFO : calculatorLogs : Operation Performed: cos5=0.28366218546322625
+2021-03-05 20:58:50,963 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:50,963 : INFO : calculatorLogs : Input 2: 
+2021-03-05 20:58:50,963 : INFO : calculatorLogs : Operator selected: tan
+2021-03-05 20:58:50,964 : INFO : calculatorLogs : Output: -3.380515006246586
+2021-03-05 20:58:50,964 : INFO : calculatorLogs : Operation Performed: tan5=-3.380515006246586
+2021-03-05 20:58:52,213 : INFO : calculatorLogs : Input 1: 5
+2021-03-05 20:58:52,213 : INFO : calculatorLogs : Input 2: 
+2021-03-05 20:58:52,214 : INFO : calculatorLogs : Operator selected: log
+2021-03-05 20:58:52,214 : INFO : calculatorLogs : Output: 1.6094379124341003
+2021-03-05 20:58:52,214 : INFO : calculatorLogs : Operation Performed: log5=1.6094379124341003
